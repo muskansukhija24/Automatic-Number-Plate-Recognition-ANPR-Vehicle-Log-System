@@ -1,0 +1,3 @@
+"""
+ANPR System Test Suite.
+"""
