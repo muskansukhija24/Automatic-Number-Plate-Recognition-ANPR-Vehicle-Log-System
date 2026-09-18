@@ -7,8 +7,6 @@
 
 An end-to-end, production-ready, modular **Automatic Number Plate Recognition (ANPR) & Vehicle Log System** built in Python. The system localizes vehicle license plates using **classical computer vision techniques** (bilateral filtering, morphological black-hat transforms, vertical Sobel edge gradients, rectangular morphological closing, contour aspect-ratio filtering, and 4-point perspective homography deskewing), extracts alphanumeric registration strings via an extensible OCR pipeline with positional character disambiguation, logs events to an indexed SQLite database, tracks blacklisted vehicles, and exposes a command-line interface.
 
-Designed and implemented to satisfy all criteria for the VITyarthi "Build Your Own Project" submission.
-
 ---
 
 ## Table of Contents
